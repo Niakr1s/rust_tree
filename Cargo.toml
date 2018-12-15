@@ -1,0 +1,6 @@
+[package]
+name = "rust_tree"
+version = "0.1.0"
+authors = ["Niakr1s <pavel2188@gmail.com>"]
+
+[dependencies]
